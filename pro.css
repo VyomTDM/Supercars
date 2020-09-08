@@ -1,0 +1,52 @@
+p{
+	font-family: Corbel;
+	font-size: 25px;
+}
+form{
+	font-size: 25px; 
+	font-family: Corbel;
+}
+h1{
+	font-family: Segoe UI Black;
+}
+#abcd{
+	text-decoration: none;
+	font-family: Corbel;
+	font-size: 20px;
+	color: red;
+	font-weight: bolder;
+}
+	ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	font-family: Ink free;
+	font-size: 20px;
+	background-color: black;
+}
+li a{
+	display: block;
+	color: white;
+	padding: 8px 16px;
+	text-decoration: none;
+	font-weight: bolder;
+}
+li a:hover{
+	background-color: green;
+}
+li{
+	float: left;
+}
+#pro{
+	float: right;
+	color: white;
+}
+#one{
+	font-family: Ink free;
+ 	font-size: 20px;
+}
+#one:hover{
+	border: 2px 2px 2px 2px solid grey;
+	border-radius: 20px;
+}
